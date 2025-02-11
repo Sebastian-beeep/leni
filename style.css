@@ -36,8 +36,8 @@ body {
   position: absolute;
   top: 10%;
   left: 10%;
-  transform: translate(-50%, -50%) rotate(-15deg);
-  font-size: 2vmin;
+  transform: translate(-20%, -20%) rotate(-15deg);
+  font-size: 6vmin;
   color: rgba(170, 33, 33, 0.6);
   font-style: italic;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
